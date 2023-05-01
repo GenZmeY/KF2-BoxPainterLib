@@ -44,7 +44,7 @@ If you are building manually add line `ModPackages=BoxPainterLib` to your `KFEdi
 Now build the mod. `BoxPainterLib.u` library will be next to your `*.u` files  
 
 # Examples
-[KF2-YetAnotherScoreboard](https://github.com/GenZmeY/KF2-YetAnotherScoreboard/tree/BoxPainterLib) (BoxPainterLib branch)  
+[KF2-YetAnotherScoreboard](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)  
 
 # License
 [GNU LGPLv3](LICENSE)
