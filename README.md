@@ -11,6 +11,7 @@ Ported from [YetAnotherScoreboard](https://github.com/GenZmeY/KF2-YetAnotherScor
 If your code uses the GPL or LGPL you can choose any of the methods below. But if you're using a different license and don't want to change it to the (L)GPL, then you should use methods 1 or 2, and don't make changes to the BoxPainterLib code.  
 
 **Here are the ways:**  
+
 ### 1. As [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)  
 Open git-bash and go to your project: `cd <your_project_path>`  
 Add submodule: `git submodule add https://github.com/GenZmeY/KF2-BoxPainterLib BoxPainterLib`  
