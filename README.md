@@ -8,7 +8,7 @@
 Ported from [YetAnotherScoreboard](https://github.com/GenZmeY/KF2-YetAnotherScoreboard) and published under LGPLv3 due to licensing issues with some closed source mods.**  
 
 ## Add to your project
-If your code uses the GPL or LGPL you can choose any of the methods below. But if you're using a different license and don't want to change it to the (L)GPL, then you should use methods 1 or 2, and don't make changes to the BoxPainterLib code.  
+⚠️ If your code uses the GPL or LGPL you can choose any of the methods below. But if you're using a different license and don't want to change it to the (L)GPL, then you should use methods 1 or 2, and don't make changes to the BoxPainterLib code.  
 
 **Here are the ways:**  
 
